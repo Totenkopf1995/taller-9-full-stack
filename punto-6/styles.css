@@ -1,0 +1,14 @@
+div a {
+    display: flex;
+    font-size: 27px;
+    font-weight: bold;
+    padding-top: 25px;
+}
+
+.marca {
+    color: rgba(255, 255, 0, 0.616);
+}
+
+.as {
+    color: rgba(137, 43, 226, 0.952);
+}
