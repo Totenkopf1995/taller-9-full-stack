@@ -1,0 +1,36 @@
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100vh;
+    margin: 0;
+    line-height: 0;
+}
+
+.green {
+    color: green;
+}
+
+.red {
+    color: red;
+}
+
+.pigeonholed {
+    text-decoration: underline;
+	border-top: 1px solid black;
+	display: inline-block;
+	padding-top: 0.2em;
+}
+
+.bold__title {
+    font-size: 32px;
+    font-weight: bold;
+}
+
+.blue {
+    color: blue;
+}
+
+.underlined {
+    text-decoration: underline;
+}
