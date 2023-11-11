@@ -1,0 +1,17 @@
+div {
+    display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+	margin: 0;
+    line-height: 0;
+}
+
+.blue {
+    color: blue;
+}
+
+.red {
+    color: red;
+}
