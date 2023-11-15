@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+nav {
+    background-color: #ae6cb4e0;
+    padding: 10px;
+    text-align: left;
+    width: 55%;
+    margin: auto;
+}
+
+.boton {
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    margin: 5px;
+    display: inline-block;
+}
+
+.rosado {
+    background-color: transparent;
+}
+
+.rosado:hover {
+    background-color: #4285f4;
+}
